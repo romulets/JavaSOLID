@@ -19,13 +19,13 @@ Well, thinking better, maybe split our code can be a good thing...
 
 [Look the solution I propose.] (solution/)
 
-You probably will find something that you could've done better, and yes you could. That's spirit. 
+You probably will find something that you could've done better, and yes you could. That's the spirit. 
 
-But look how better is it! If we decide to change the save logic, it is separeted! The validations too! If we want to send an e-mail warning the register,  add another class and then two lines to our `services.ClientService.java`!
+But look how better is it! If we decide to change the persistence logic, it is separeted! The validations too! If we want to send an e-mail warning the register,  add another class and then two lines to our `services.ClientService.java`!
 
 And note that the `models.Client.java` continues to be a rich model. It knows if is valid or not.
 
-It is just an example to help understand the principle. I know you thought that with frameworks like Spring and Hibernate everything would easier. But well, everyone starts from some place uh? Try apply it in your big application and you'll se how this principle helps!
+It is just an example to help understand the principle. I know you thought that with frameworks like Spring and Hibernate everything would be easier. But well, everyone starts from some place uh? Try apply it in your big application and you'll se how this principle helps!
 
 [Thank you so much Tom DeMarco and Meilir Page-Jones!] (https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
 
