@@ -14,8 +14,9 @@ Each principle has its own readme with a little explanation :)
 
 ## References
 * [Post and Video (PT-BR) - Eduardo Pires] (http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
-* [Book (PT-BR) - Alura] (https://www.casadocodigo.com.br/products/livro-oo-solid)
+* [Book Orientação a Objetos e SOLID para Ninjas (PT-BR) - Casa do Código] (https://www.casadocodigo.com.br/products/livro-oo-solid)
 * [Post (EN) - Uncle Bob] (http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+* [Book Clean Code- Robert C. Martin] (https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Considerations
 
