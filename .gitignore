@@ -12,6 +12,16 @@
 hs_err_pid*
 
 bin/
+database.txt
+
+#Eclipse files
 .settings/
 *.project
-database.txt
+.classpath
+
+
+
+#IDEA files
+.idea/
+JavaSOLID.iml
+out/
