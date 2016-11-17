@@ -6,7 +6,7 @@ Each principle has its own readme with a little explanation :)
 | Initials | Name                           | Link                                               |
 | :-------- |:------------------------------| :-------------------------------------------------- |
 | S        | Single Resposability Principle | [SRP] (src/br/com/farias/javasolid/srp) |
-| O        | Open/Closed Principle          | OCP (building)|
+| O        | Open/Closed Principle          | [OCP] (src/br/com/farias/javasolid/ocp) (building)|
 | L        | Liskov Substitution Principle          | LSP (building) |
 | I        | Interface Segregation Principle          | ISP (building) |
 | D        | Dependency Inversion Principle          | DIP (building) |
