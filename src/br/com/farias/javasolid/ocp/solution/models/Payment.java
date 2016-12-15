@@ -10,18 +10,9 @@ public class Payment {
 
     private String account;
 
-    public Payment(PaymentMethod method, double value, String account) {
-        setMethod(method);
+    public Payment(double value, String account) {
         setValue(value);
         setAccount(account);
-    }
-
-    public PaymentMethod getMethod() {
-        return method;
-    }
-
-    public void setMethod(PaymentMethod method) {
-        this.method = method;
     }
 
     public double getValue() {
