@@ -1,6 +1,6 @@
 package br.com.farias.javasolid.ocp.solution.models;
 
-import br.com.farias.javasolid.ocp.solution.models.paymentmethod.PaymentMethod;
+import br.com.farias.javasolid.ocp.solution.paymentmethods.PaymentMethod;
 
 public class Payment {
 

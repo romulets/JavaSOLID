@@ -1,4 +1,4 @@
-package br.com.farias.javasolid.ocp.solution.models.paymentmethod;
+package br.com.farias.javasolid.ocp.solution.paymentmethods;
 
 public class CreditPaymentMethod implements PaymentMethod {
 
