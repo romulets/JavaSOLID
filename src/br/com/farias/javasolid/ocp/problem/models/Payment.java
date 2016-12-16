@@ -18,7 +18,7 @@ public class Payment {
         return method;
     }
 
-    public void setMethod(PaymentMethod method) {
+    private void setMethod(PaymentMethod method) {
         this.method = method;
     }
 
@@ -26,7 +26,7 @@ public class Payment {
         return value;
     }
 
-    public void setValue(double value) {
+    private void setValue(double value) {
         this.value = value;
     }
 
@@ -34,7 +34,7 @@ public class Payment {
         return account;
     }
 
-    public void setAccount(String account) {
+    private void setAccount(String account) {
         this.account = account;
     }
 }
