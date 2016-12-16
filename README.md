@@ -21,3 +21,6 @@ Each principle has its own readme with a little explanation :)
 ## Considerations
 
 Well, the code is for everyone! I'll be so grateful if someone look and comment it! My codes aren't perfects, and never will be. There will be always changes to do. So fork it, send pull requests, help me to do something cool for the community!
+
+
+Não sabe falar inglês? Veja em [Português] (README_pt.md)!
