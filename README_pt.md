@@ -13,7 +13,7 @@ Cada princípio tem seu própria readme com uma pequena explicação :)
 | D        | Princípio da Inversão de Dependência| DIP (em construção) |
 
 
-## Referencias
+## Referências
 * [Artigo e Vídeo (PT-BR) - Eduardo Pires] (http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
 * [Livro Orientação a Objetos e SOLID para Ninjas (PT-BR) - Casa do Código] (https://www.casadocodigo.com.br/products/livro-oo-solid)
 * [Artigo (EN) - Uncle Bob] (http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
