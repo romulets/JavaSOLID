@@ -2,11 +2,11 @@ package br.com.farias.javasolid.ocp.solution;
 
 
 import br.com.farias.javasolid.ocp.solution.models.Payment;
+import br.com.farias.javasolid.ocp.solution.paymentmethods.CreditPaymentMethod;
+import br.com.farias.javasolid.ocp.solution.paymentmethods.DebitPaymentMethod;
 import br.com.farias.javasolid.ocp.solution.paymentmethods.PaymentMethod;
 import br.com.farias.javasolid.ocp.solution.paymentmethods.PaypalPaymentMethod;
 import br.com.farias.javasolid.ocp.solution.services.PaymentService;
-import br.com.farias.javasolid.ocp.solution.paymentmethods.CreditPaymentMethod;
-import br.com.farias.javasolid.ocp.solution.paymentmethods.DebitPaymentMethod;
 
 public class OCPSolutionApplication {
 

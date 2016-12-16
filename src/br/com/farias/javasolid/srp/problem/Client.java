@@ -5,47 +5,47 @@ import java.io.IOException;
 
 public class Client {
 
-	private String email;
-	private String document;
+    private String email;
+    private String document;
 
-	public void save() {
+    public void save() {
 
-		if (!email.contains("@"))
-			throw new RuntimeException("Email field must contains '@'");
+        if (!email.contains("@"))
+            throw new RuntimeException("Email field must contains '@'");
 
-		if (document.length() != 11)
-			throw new RuntimeException("Document field must have exactly 11 caracters");
+        if (document.length() != 11)
+            throw new RuntimeException("Document field must have exactly 11 caracters");
 
-		FileWriter file;
+        FileWriter file;
 
-		try {
-			file = new FileWriter("database.txt");
-			file.write(this.toString());
-			file.close();
-		} catch (IOException e) {
-			throw new RuntimeException("Can't save client", e);
-		}
-	}
-	
-	@Override
-	public String toString() {
-		return String.format("%s -|- %s ", email, document);
-	}
+        try {
+            file = new FileWriter("database.txt");
+            file.write(this.toString());
+            file.close();
+        } catch (IOException e) {
+            throw new RuntimeException("Can't save client", e);
+        }
+    }
 
-	public String getEmail() {
-		return email;
-	}
+    @Override
+    public String toString() {
+        return String.format("%s -|- %s ", email, document);
+    }
 
-	public void setEmail(String email) {
-		this.email = email;
-	}
+    public String getEmail() {
+        return email;
+    }
 
-	public String getDocument() {
-		return document;
-	}
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
-	public void setDocument(String document) {
-		this.document = document;
-	}
+    public String getDocument() {
+        return document;
+    }
+
+    public void setDocument(String document) {
+        this.document = document;
+    }
 
 }
