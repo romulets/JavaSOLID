@@ -8,8 +8,8 @@ Cada princípio tem seu própria readme com uma pequena explicação :)
 | :-------- |:------------------------------| :-------------------------------------------------- |
 | S        | Princípio da Responsabilidade Única | [SRP] (src/br/com/farias/javasolid/srp) |
 | O        | Princípio do Aberto/Fechado| [OCP] (src/br/com/farias/javasolid/ocp) (em construção)|
-| L        | Princípio da Substituição de Liskov | LSP (em construção) |
-| I        | Princípio da segregação de Interface | ISP (em construção) |
+| L        | Princípio da Substituição de Liskov | [LSP] (src/br/com/farias/javasolid/lsp) (em construção) |
+| I        | Princípio da segregação de Interface | [ISP] (src/br/com/farias/javasolid/isp) (em construção) |
 | D        | Princípio da Inversão de Dependência| DIP (em construção) |
 
 

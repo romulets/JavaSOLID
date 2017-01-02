@@ -1,6 +1,6 @@
 package br.com.farias.javasolid.srp.problem;
 
-public class SRPProblemApplication {
+public class SRPProblemApp {
 
     public static void main(String[] args) {
         Client client = new Client() {{

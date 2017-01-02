@@ -3,7 +3,7 @@ package br.com.farias.javasolid.srp.solution;
 import br.com.farias.javasolid.srp.solution.models.Client;
 import br.com.farias.javasolid.srp.solution.services.ClientService;
 
-public class SRPSolutionApplication {
+public class SRPSolutionApp {
 
     public static void main(String[] args) {
         Client client = new Client() {{

@@ -8,7 +8,7 @@ import br.com.farias.javasolid.ocp.solution.paymentmethods.PaymentMethod;
 import br.com.farias.javasolid.ocp.solution.paymentmethods.PaypalPaymentMethod;
 import br.com.farias.javasolid.ocp.solution.services.PaymentService;
 
-public class OCPSolutionApplication {
+public class OCPSolutionApp {
 
     public static void main(String[] args) {
         PaymentService service = new PaymentService();

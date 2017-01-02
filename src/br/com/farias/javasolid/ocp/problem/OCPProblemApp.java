@@ -4,7 +4,7 @@ import br.com.farias.javasolid.ocp.problem.models.Payment;
 import br.com.farias.javasolid.ocp.problem.models.PaymentMethod;
 import br.com.farias.javasolid.ocp.problem.services.PaymentService;
 
-public class OCPProblemApplication {
+public class OCPProblemApp {
 
     public static void main(String[] args) {
         PaymentService service = new PaymentService();

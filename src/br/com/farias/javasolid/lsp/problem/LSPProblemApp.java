@@ -7,7 +7,7 @@ import br.com.farias.javasolid.lsp.problem.services.AccountService;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LSPProblemApplication {
+public class LSPProblemApp {
 
     public static void main(String[] args) {
         List<CommonAccount> accounts = new ArrayList<>();
