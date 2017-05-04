@@ -27,5 +27,5 @@ And note that the `models.Client.java` continues to be a rich model. It knows if
 
 It is just an example to help understand the principle. I know you thought that with frameworks like Spring and Hibernate everything would be easier. But well, everyone starts from some place uh? Try apply it in your big application and you'll se how this principle helps!
 
-[Thank you so much Tom DeMarco and Meilir Page-Jones!] (https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
+[Thank you so much Tom DeMarco and Meilir Page-Jones!](https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
 
