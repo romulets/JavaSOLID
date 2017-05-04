@@ -8,15 +8,15 @@ Each principle has its own readme with a little explanation :)
 | S        | Single Resposability Principle | [SRP](src/br/com/farias/javasolid/srp) |
 | O        | Open/Closed Principle          | [OCP](src/br/com/farias/javasolid/ocp) (building)|
 | L        | Liskov Substitution Principle  | [LSP](src/br/com/farias/javasolid/lsp) (building) |
-| I        | Interface Segregation Principle          | [ISP] (src/br/com/farias/javasolid/isp) (building) |
+| I        | Interface Segregation Principle          | [ISP](src/br/com/farias/javasolid/isp) (building) |
 | D        | Dependency Inversion Principle          | DIP (building) |
 
 
 ## References
-* [Post and Video (PT-BR) - Eduardo Pires] (http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
-* [Orientação a Objetos e SOLID para Ninjas Book (PT-BR) - Casa do Código] (https://www.casadocodigo.com.br/products/livro-oo-solid)
-* [Post (EN) - Uncle Bob] (http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-* [Clean Code Book- Robert C. Martin] (https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Post and Video (PT-BR) - Eduardo Pires](http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
+* [Orientação a Objetos e SOLID para Ninjas Book (PT-BR) - Casa do Código](https://www.casadocodigo.com.br/products/livro-oo-solid)
+* [Post (EN) - Uncle Bob](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+* [Clean Code Book- Robert C. Martin](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Considerations
 
